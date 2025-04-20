@@ -1,25 +1,5 @@
 [
-   {
-    "type": "video",
-    "src": "https://wish2.soundsip.com/sugarstream/vako/files/Videos/Bangla%20Hindi%20English%20Video%20Songs/Bengali%20Item%20Songs/mp4%20Mobile/Nesha%20-%20Kushum%20Shikder%20-%20Hridoy%20Khann-%20Shujon.mp4",
-    "duration": 240
-  },
-  {
-    "type": "youtube",
-    "src": "https://www.youtube.com/embed/ScMzIvxBSi4?autoplay=1&controls=0&modestbranding=1&showinfo=0&rel=0&autohide=1&fs=0",
-    "duration": 20
-  },
-   {
-    "type": "video",
-    "src": "https://wish2.soundsip.com/sugarstream/vako/files/Videos/Bangla%20Hindi%20English%20Video%20Songs/Bengali%20Item%20Songs/mp4%20Mobile/Tikatuli%20-%20Dhaka%20Attack%20Shuvoo%20Mahi%20Sanju%20Mimo.mp4",
-    "duration": 240
-  },
-   {
-    "type": "youtube",
-    "src": "https://www.youtube.com/watch?v=6yvvRT4ZERY&pp=0gcJCX4JAYcqIYzv",
-    "duration": 200
-  },
-   {
+     {
     "type": "video",
     "src": "https://www.hd9video.com/siteuploads/files/sfd2/576/Khujechi%20Toke%20Raat%20Berate%20-%20Josh_HD-(Hd9video).mp4",
     "duration": 240
@@ -59,11 +39,6 @@
     "src": "https://www.hd9video.com/siteuploads/files/sfd1/102/Aami%20Tomar%20Kache%20-%20Yoddha_HD-(Hd9video).mp4",
     "duration": 240
   },
-    {
-    "type": "youtube",
-    "src": "https://www.youtube.com/embed/iv7lcUkFVSc",
-    "duration": 20
-  },
    {
     "type": "video",
     "src": "https://www.hd9video.com/siteuploads/files/sfd5/2229/Jodi%20Bare%20Bare%20Eki%20Sure_HD-(Hd9video).mp4",
@@ -89,6 +64,16 @@
     "src": "https://www.hd9video.com/siteuploads/files/sfd1/116/Konya%20-%20Ash%20King%20Ft.%20Shreyasi%20Sen_HD-(Hd9video).mp4",
     "duration": 240
   },
+   {
+    "type": "video",
+    "src": "https://www.hd9video.com/siteuploads/files/sfd1/243/Ek%20Dekhay%20-%20Imran%20ft%20Porshi_HD_720p-(Hd9video).mp4",
+    "duration": 240
+  },
+  {
+    "type": "video",
+    "src": "https://www.hd9video.com/siteuploads/files/sfd5/2194/Aador%20Diye%20Chui%20-%20Manush%20ft%20Jeet_HD-(Hd9video).mp4",
+    "duration": 240
+  }
     {
     "type": "video",
     "src": "https://www.hd9video.com/siteuploads/files/sfd1/118/Habibi%20-%20Nusraat%20Faria_HD-(Hd9video).mp4",
