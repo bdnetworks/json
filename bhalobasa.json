@@ -4,27 +4,22 @@
     "src": "https://wish2.soundsip.com/sugarstream/vako/files/Videos/Bangla%20Hindi%20English%20Video%20Songs/Bengali%20Item%20Songs/mp4%20Mobile/Nesha%20-%20Kushum%20Shikder%20-%20Hridoy%20Khann-%20Shujon.mp4",
     "duration": 240
   },
-  {
-    "type": "youtube",
-    "src": "https://www.youtube.com/embed/ScMzIvxBSi4?autoplay=1&controls=0&modestbranding=1&showinfo=0&rel=0&autohide=1&fs=0",
-    "duration": 20
-  },
-   {
+      {
     "type": "video",
     "src": "https://wish2.soundsip.com/sugarstream/vako/files/Videos/Bangla%20Hindi%20English%20Video%20Songs/Bengali%20Item%20Songs/mp4%20Mobile/Tikatuli%20-%20Dhaka%20Attack%20Shuvoo%20Mahi%20Sanju%20Mimo.mp4",
     "duration": 240
   },
-   {
+      {
     "type": "video",
     "src": "https://wish2.soundsip.com/sugarstream/vako/files/Videos/Bangla%20Hindi%20English%20Video%20Songs/Bangladeshi%20Music%20Video/TISHMA%20-%20Dhaka%20Kaka%20Lo%20Jaiga%20(%20Bangla%20funny%20rap%20pop%20song%20).3gp",
     "duration": 180
   },
-   {
+      {
     "type": "video",
     "src": "https://www.hd9video.com/siteuploads/files/sfd2/576/Khujechi%20Toke%20Raat%20Berate%20-%20Josh_HD-(Hd9video).mp4",
     "duration": 240
   },
-   {
+      {
     "type": "video",
     "src": "https://www.hd9video.com/siteuploads/files/sfd1/113/Awaara%20Dil%20-%20Ki%20Kore%20Toke%20Bolbo_HD_720p-(Hd9video).mp4",
     "duration": 240
@@ -44,19 +39,15 @@
     "src": "https://www.hd9video.com/siteuploads/files/sfd1/105/Baare%20Baare%20-%20Baazi_HD_720p-(Hd9video).mp4",
     "duration": 240
   },
-   {
+      {
     "type": "video",
     "src": "https://www.hd9video.com/siteuploads/files/sfd1/106/Kichu%20Hashi%20Kichu%20Asha%20-%20Bandhan_HD_720p-(Hd9video).mp4",
     "duration": 240
   },
-   {
+      {
     "type": "video",
     "src": "https://www.hd9video.com/siteuploads/files/sfd1/103/O%20Piya%20Re%20Piya%20-%20Majnu_HD-(Hd9video).mp4",
     "duration": 240
-  },
-   {
-    "type": "youtube",
-    "src": "https://youtu.be/iv7lcUkFVSc",
-    "duration": 20
   }
+   
 ]
