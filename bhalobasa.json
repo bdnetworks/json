@@ -54,15 +54,15 @@
     "src": "https://www.hd9video.com/siteuploads/files/sfd1/103/O%20Piya%20Re%20Piya%20-%20Majnu_HD-(Hd9video).mp4",
     "duration": 240
   },
-   {
-    "type": "youtube",
-    "src": "https://youtu.be/iv7lcUkFVSc",
-    "duration": 20
-  },
     {
     "type": "video",
     "src": "https://www.hd9video.com/siteuploads/files/sfd1/102/Aami%20Tomar%20Kache%20-%20Yoddha_HD-(Hd9video).mp4",
     "duration": 240
+  },
+    {
+    "type": "youtube",
+    "src": "https://www.youtube.com/embed/iv7lcUkFVSc",
+    "duration": 20
   },
    {
     "type": "video",
