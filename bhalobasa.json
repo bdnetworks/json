@@ -33,5 +33,15 @@
     "type": "video",
     "src": "https://ia800707.us.archive.org/3/items/ei-prithibi/Ei%20prithibi.mp4",
     "duration": 180
+  },
+       {
+    "type": "video",
+    "src": "https://ia601702.us.archive.org/24/items/mayabi-borbad-movie-song-by-shakib-khan-idhika-bhalobasa-tv/Mayabi-Borbad%20Movie%20Song%20by%20Shakib%20Khan-Idhika-%20BhalobasaTV.mp4",
+    "duration": 180
+  },
+       {
+    "type": "video",
+    "src": "https://ia801800.us.archive.org/30/items/pagla-hawa-bhalobasa-tv/Pagla%20hawa-%20BhalobasaTV.mp4",
+    "duration": 180
   }
 ]
