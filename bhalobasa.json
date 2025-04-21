@@ -22,12 +22,16 @@
        {
     "type": "video",
     "src": "https://ia803205.us.archive.org/8/items/JanalarGlassFullVideoSongByBappaMazumderProsunAzadBanglaNewSong2016FreeDownload/Janalar%20Glass%20-%20Full%20Video%20Song%20By%20Bappa%20Mazumder%20%2C%20Prosun%20Azad%2CBangla%20New%20Song%202016%20Free%20Download.mp4",
-    "duration": 300
+    "duration": 200
   },
        {
     "type": "video",
     "src": "https://dn720405.ca.archive.org/0/items/tomar-sona-kisher-priti/Tomar%20sona%20kisher%20%20priti.ia.mp4",
-    "duration": 300
+    "duration": 180
+  },
+      {
+    "type": "video",
+    "src": "https://ia800707.us.archive.org/3/items/ei-prithibi/Ei%20prithibi.mp4",
+    "duration": 180
   }
-   
 ]
