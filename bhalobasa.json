@@ -51,7 +51,12 @@
   },
        {
     "type": "video",
-    "src": "https://archive.org/download/imran-mahmudul-konna-ft.-kona-bhalobasa-tv/Imran%20Mahmudul%20-%20Konna%20ft.%20Kona-%20BhalobasaTV.mp4",
+    "src": "https://ia801504.us.archive.org/19/items/imran-mahmudul-konna-ft.-kona-bhalobasa-tv/Imran%20Mahmudul%20-%20Konna%20ft.%20Kona-%20BhalobasaTV.mp4",
     "duration": 200
+  },
+       {
+    "type": "video",
+    "src": "https://ia600703.us.archive.org/35/items/tumi_amay_valobaso-bhalobasatv_202504/tumi_Amay_Valobaso-BhalobasaTV.mp4",
+    "duration": 260
   }
 ]
