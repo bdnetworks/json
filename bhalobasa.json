@@ -16,12 +16,12 @@
   },
        {
     "type": "video",
-    "src": "https://dn721607.ca.archive.org/0/items/parbona-ami/Parbona%20Ami.ia.mp4",
-    "duration": 300
+    "src": "https://archive.org/download/adore-rakhio-bondhu-bhalobasa-tv/Adore%20Rakhio%20Bondhu-BhalobasaTV.mp4",
+    "duration": 250
   },
        {
     "type": "video",
-    "src": "https://ia803205.us.archive.org/8/items/JanalarGlassFullVideoSongByBappaMazumderProsunAzadBanglaNewSong2016FreeDownload/Janalar%20Glass%20-%20Full%20Video%20Song%20By%20Bappa%20Mazumder%20%2C%20Prosun%20Azad%2CBangla%20New%20Song%202016%20Free%20Download.mp4",
+    "src": "https://archive.org/download/ayu-chor-buri-bhalobasa-tv/Ayu%20Chor%20Buri%20%EF%BD%9C%20BhalobasaTV.mp4",
     "duration": 200
   },
        {
@@ -48,5 +48,10 @@
     "type": "video",
     "src": "https://ia601605.us.archive.org/5/items/baba-tumay-chara-jongli-bhalobasa-tv/Baba%20tumay%20chara-%20Jongli-%20BhalobasaTV.mp4",
     "duration": 180
+  },
+       {
+    "type": "video",
+    "src": "https://archive.org/download/imran-mahmudul-konna-ft.-kona-bhalobasa-tv/Imran%20Mahmudul%20-%20Konna%20ft.%20Kona-%20BhalobasaTV.mp4",
+    "duration": 200
   }
 ]
