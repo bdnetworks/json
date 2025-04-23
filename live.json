@@ -1,8 +1,14 @@
 [
-       {
+  {
     "type": "youtube",
-    "src": "https://www.youtube.com/embed/pbGs82mm57c",
-    "duration": 370
+    "src": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    "duration": 90,
+    "start": 0
+  },
+  {
+    "type": "youtube",
+    "src": "https://www.youtube.com/embed/3JZ_D3ELwOQ",
+    "duration": 120,
+    "start": 0
   }
-   
 ]
