@@ -1,13 +1,19 @@
 [
   {
     "type": "youtube",
-    "src": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    "src": "https://www.youtube.com/embed/pbGs82mm57c",
     "duration": 90,
     "start": 0
   },
   {
     "type": "youtube",
-    "src": "https://www.youtube.com/embed/3JZ_D3ELwOQ",
+    "src": "https://www.youtube.com/embed/bPaiulTmFAA",
+    "duration": 120,
+    "start": 0
+  },
+  {
+    "type": "dailymotion",
+    "src": "x6kjtf2",
     "duration": 120,
     "start": 0
   }
