@@ -1,0 +1,157 @@
+    html, body {
+      margin: 0; padding: 0;
+      height: 100%; background: #000;
+      font-family: 'Segoe UI', sans-serif;
+      overflow: hidden; color: white;
+      -webkit-user-select: none;
+      -moz-user-select: none;
+      user-select: none;
+    }
+
+    body {
+      -webkit-touch-callout: none;
+    }
+
+    /* Context menu disable */
+    body {
+      -webkit-user-select: none;
+      -moz-user-select: none;
+      user-select: none;
+    }
+
+    #introOverlay {
+      position: fixed; inset: 0;
+      background: black; z-index: 9999;
+      display: flex; justify-content: center; align-items: center;
+      animation: fadeOut 1s ease 2.5s forwards;
+    }
+
+    @keyframes fadeOut {
+      to { opacity: 0; visibility: hidden; }
+    }
+
+    .introText {
+      font-size: 2em; color: #00ffff; text-align: center;
+      animation: scaleIntro 2s ease-in-out;
+      font-weight: bold;
+      text-shadow: 0 0 10px #00ffff;
+    }
+
+    @keyframes scaleIntro {
+      0% { transform: scale(0); opacity: 0; }
+      50% { transform: scale(1.2); opacity: 1; }
+      100% { transform: scale(1); }
+    }
+
+    .intro-logo {
+      width: 80px; height: 80px;
+      margin-bottom: 15px;
+      animation: spinLogo 2s ease-in-out;
+    }
+
+    @keyframes spinLogo {
+      0% { transform: rotate(0); opacity: 0; }
+      50% { transform: rotate(360deg); opacity: 1; }
+      100% { transform: rotate(720deg); opacity: 1; }
+    }
+
+    .player-wrapper {
+      position: relative; width: 100vw; height: 99.9dvh;
+      cursor: pointer;
+    }
+    video, iframe {
+      width: 100%; height: 100%; object-fit: cover;
+      position: absolute; top: 0; left: 0;
+    }
+    iframe { border: none; }
+    .logo {
+      position: absolute; top: 20px; left: 20px;
+      width: 100px; height: 100px;
+      z-index: 20;
+    }
+    .logo img {
+      width: 100%; height: 100%; object-fit: contain;
+      border-radius: 6px;
+      animation: flipLogo2 6s linear infinite;
+    }
+    .live-badge {
+      position: absolute; top: 20px; right: 20px;
+      background: red; color: white; padding: 5px 12px;
+      border-radius: 20px; font-weight: bold; z-index: 10;
+      animation: pulse 1s infinite;
+       z-index: 20;
+    }
+    @keyframes pulse {
+      0% { box-shadow: 0 0 0 0 rgba(255,0,0,0.7); }
+      70% { box-shadow: 0 0 0 10px rgba(255,0,0,0); }
+      100% { box-shadow: 0 0 0 0 rgba(255,0,0,0); }
+    }
+    .time-overlay {
+      position: absolute; bottom: 45px; right: 20px;
+      background: rgba(0,0,0,0.5); padding: 4px 10px;
+      border-radius: 6px; font-size: 14px;
+      box-shadow: 0 0 10px #00ffcc;
+      color: #00ffcc; z-index: 10;
+    }
+    .ticker-bar {
+      position: absolute; bottom: 0; width: 100%;
+      background: linear-gradient(to right, #ff0000, #990000);
+      color: white; padding: 1px 0;
+      display: flex; align-items: center;
+      overflow: hidden; z-index: 5;
+    }
+    .ticker-static-logo {
+      height: 40px; margin: 0; flex-shrink: 0;
+      z-index: 9999;
+    }
+    .ticker-static-logo img {
+      height: 100%; object-fit: contain;
+    }
+    .ticker-text {
+      white-space: nowrap;
+      animation: ticker 45s linear infinite;
+      font-weight: bold; font-size: 16px;
+    }
+    @keyframes ticker {
+      0% { transform: translateX(0%); }
+      100% { transform: translateX(-100%); }
+    }
+    .controls {
+      position: absolute; bottom: 60px;
+      left: 50%; transform: translateX(-50%);
+      display: flex; gap: 12px;
+      background: rgba(0,0,0,0.5);
+      padding: 8px 14px;
+      border-radius: 12px;
+      opacity: 0; transition: 0.3s; z-index: 10;
+    }
+    .controls.visible { opacity: 1; cursor: auto; }
+    .control-btn {
+      background: none; border: none; color: white;
+      font-size: 20px; cursor: pointer;
+    }
+    .control-btn:hover { color: #00ffff; }
+    .volume-slider { width: 100px; }
+    .youtube-overlay {
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 60px; /* উপরের যতটা অংশ ঢাকতে চান */
+      width: 100%;
+      z-index: 11; /* iframe এর উপরে */
+      
+    }
+
+    .youtube-overlay img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      opacity: 1;
+    }
+          /* মোবাইলের জন্য আলাদা স্টাইল (সাধারণত স্ক্রিন ≤ 768px) */
+@media only screen and (max-width: 768px) {
+  .player-wrapper {
+    height: 65dvh; /* মোবাইলে পুরো স্ক্রিন কাভার করবে */
+    cursor: default; /* মোবাইলে pointer এর চেয়ে default ভালো দেখায় */
+    touch-action: manipulation; /* মোবাইলে টাচ রেসপন্স আরও ভালো করে */
+  }
