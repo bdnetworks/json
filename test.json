@@ -1,19 +1,17 @@
 [
- {
-  "type": "vimeo",
-  "src": "https://player.vimeo.com/video/92128281",
-  "start": 0,
-  "duration": 180
-},
   {
-    "type": "vimeo",
-    "src": "https://player.vimeo.com/video/106035436",
-     "duration": 180
-     "start": 0
+    "type": "dailymotion",
+    "src": "https://www.dailymotion.com/embed/video/x8oqfhl",
+    "start": 0
   },
   {
-    "type": "vimeo",
-    "src": "https://player.vimeo.com/video/255874641",
+    "type": "dailymotion",
+    "src": "https://www.dailymotion.com/embed/video/x6w3mjp",
+    "start": 0
+  },
+  {
+    "type": "dailymotion",
+    "src": "https://www.dailymotion.com/embed/video/x4ftgh1",
     "start": 0
   }
 ]
