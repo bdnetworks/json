@@ -1,8 +1,16 @@
-[
-  {
-  "type": "dailymotion",
-  "src": "x8drdf3",
-  "start": 0,
-  "duration": 220
+{
+  "videos": [
+    {
+      "type": "dailymotion",
+      "src": "x8oqfhl",
+      "start": 0,
+      "duration": 220
+    },
+    {
+      "type": "dailymotion",
+      "src": "newVideoID",
+      "start": 30,
+      "duration": 180
+    }
+  ]
 }
-]
