@@ -121,19 +121,7 @@
   },
   {
     "type": "youtube",
-    "src": "https://www.youtube.com/embed/6EpJfb3Abcc?autoplay=1&controls=0&modestbranding=1&showinfo=0&rel=0&autohide=1&fs=0",
-    "duration": 140,
-    "start": 0
-  },
-  {
-    "type": "youtube",
     "src": "https://www.youtube.com/embed/hjBMTHOj00M?autoplay=1&controls=0&modestbranding=1&showinfo=0&rel=0&autohide=1&fs=0",
-    "duration": 140,
-    "start": 0
-  },
-  {
-    "type": "youtube",
-    "src": "https://www.youtube.com/embed/RH47xvQ1Qs8?autoplay=1&controls=0&modestbranding=1&showinfo=0&rel=0&autohide=1&fs=0",
     "duration": 140,
     "start": 0
   },
@@ -145,25 +133,7 @@
   },
   {
     "type": "youtube",
-    "src": "https://www.youtube.com/embed/GRRMROqW10c?autoplay=1&controls=0&modestbranding=1&showinfo=0&rel=0&autohide=1&fs=0",
-    "duration": 140,
-    "start": 0
-  },
-  {
-    "type": "youtube",
-    "src": "https://www.youtube.com/embed/JMCRg1icXCc?autoplay=1&controls=0&modestbranding=1&showinfo=0&rel=0&autohide=1&fs=0",
-    "duration": 140,
-    "start": 0
-  },
-  {
-    "type": "youtube",
     "src": "https://www.youtube.com/embed/jFHnz-B2Kas?autoplay=1&controls=0&modestbranding=1&showinfo=0&rel=0&autohide=1&fs=0",
-    "duration": 140,
-    "start": 0
-  },
-  {
-    "type": "youtube",
-    "src": "https://www.youtube.com/embed/l2BooJEP8aM?autoplay=1&controls=0&modestbranding=1&showinfo=0&rel=0&autohide=1&fs=0",
     "duration": 140,
     "start": 0
   },
@@ -181,25 +151,7 @@
   },
   {
     "type": "youtube",
-    "src": "https://www.youtube.com/embed/B3DJKOUxHck?autoplay=1&controls=0&modestbranding=1&showinfo=0&rel=0&autohide=1&fs=0",
-    "duration": 140,
-    "start": 0
-  },
-  {
-    "type": "youtube",
     "src": "https://www.youtube.com/embed/xmFrgY6Ajsw?autoplay=1&controls=0&modestbranding=1&showinfo=0&rel=0&autohide=1&fs=0",
-    "duration": 140,
-    "start": 0
-  },
-  {
-    "type": "youtube",
-    "src": "https://www.youtube.com/embed/sw0Pj91_zKU?autoplay=1&controls=0&modestbranding=1&showinfo=0&rel=0&autohide=1&fs=0",
-    "duration": 140,
-    "start": 0
-  },
-  {
-    "type": "youtube",
-    "src": "https://www.youtube.com/embed/Ae1bdatK_co?autoplay=1&controls=0&modestbranding=1&showinfo=0&rel=0&autohide=1&fs=0",
     "duration": 140,
     "start": 0
   },
