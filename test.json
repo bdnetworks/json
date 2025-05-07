@@ -3,42 +3,42 @@
     "type": "youtube",
     "src": "https://www.youtube.com/embed/HqSz65EnOoY?autoplay=1&controls=0&modestbranding=1&showinfo=0&rel=0&autohide=1&fs=0",
     "duration": 210,
-    "start": 2
+    "start": 0
   },
   {
     "type": "youtube",
     "src": "https://www.youtube.com/embed/b1I8BLIKIqs?autoplay=1&controls=0&modestbranding=1&showinfo=0&rel=0&autohide=1&fs=0",
     "duration": 210,
-    "start": 1
+    "start": 0
   },
   {
     "type": "youtube",
     "src": "https://www.youtube.com/embed/rDgzbckVvqs?autoplay=1&controls=0&modestbranding=1&showinfo=0&rel=0&autohide=1&fs=0",
     "duration": 220,
-    "start": 3
+    "start": 0
   },
   {
     "type": "youtube",
     "src": "https://www.youtube.com/embed/27-aSaCos7M?autoplay=1&controls=0&modestbranding=1&showinfo=0&rel=0&autohide=1&fs=0",
     "duration": 228,
-    "start": 3
+    "start": 0
   },
   {
     "type": "youtube",
     "src": "https://www.youtube.com/embed/mkXsCwaFxpg?autoplay=1&controls=0&modestbranding=1&showinfo=0&rel=0&autohide=1&fs=0",
     "duration": 220,
-    "start": 5
+    "start": 0
   },
   {
     "type": "youtube",
     "src": "https://www.youtube.com/embed/8RYfFUK83w8?autoplay=1&controls=0&modestbranding=1&showinfo=0&rel=0&autohide=1&fs=0",
     "duration": 220,
-    "start": 5
+    "start": 0
   },
   {
     "type": "youtube",
     "src": "https://www.youtube.com/embed/rqUPmN-rGhw?autoplay=1&controls=0&modestbranding=1&showinfo=0&rel=0&autohide=1&fs=0",
     "duration": 210,
-    "start": 5
+    "start": 0
   }
 ]
