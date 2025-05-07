@@ -175,12 +175,6 @@
   },
   {
     "type": "youtube",
-    "src": "https://www.youtube.com/embed/foXnG1Ww7Ss?autoplay=1&controls=0&modestbranding=1&showinfo=0&rel=0&autohide=1&fs=0",
-    "duration": 140,
-    "start": 0
-  },
-  {
-    "type": "youtube",
     "src": "https://www.youtube.com/embed/an-FtZOWarA?autoplay=1&controls=0&modestbranding=1&showinfo=0&rel=0&autohide=1&fs=0",
     "duration": 140,
     "start": 0
