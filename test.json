@@ -1,19 +1,19 @@
 [
   {
     "type": "dailymotion",
-    "src": "https://www.dailymotion.com/embed/video/x8oqfhl",
+    "src": "x8oqfhl",
     "start": 0,
     "duration": 220
   },
   {
     "type": "dailymotion",
-    "src": "https://www.dailymotion.com/embed/video/x6w3mjp",
+    "src": "x6w3mjp",
     "start": 0,
     "duration": 300
   },
   {
     "type": "dailymotion",
-    "src": "https://www.dailymotion.com/embed/video/x4ftgh1",
+    "src": "x4ftgh1",
     "start": 0,
     "duration": 260
   }
