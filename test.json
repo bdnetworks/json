@@ -1,13 +1,15 @@
 [
-  {
-    "type": "vimeo",
-    "src": "https://player.vimeo.com/video/92128281",
-    "start": 0
-  },
+ {
+  "type": "vimeo",
+  "src": "https://player.vimeo.com/video/92128281",
+  "start": 0,
+  "duration": 180
+},
   {
     "type": "vimeo",
     "src": "https://player.vimeo.com/video/106035436",
-    "start": 0
+     "duration": 180
+     "start": 0
   },
   {
     "type": "vimeo",
