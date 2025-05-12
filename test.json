@@ -359,13 +359,7 @@
     "duration": 140,
     "start": 0
   },
-  {
-    "type": "youtube",
-    "src": "https://www.youtube.com/embed/h8AXJC_dHWk?autoplay=1&controls=0&modestbranding=1&showinfo=0&rel=0&autohide=1&fs=0",
-    "duration": 140,
-    "start": 0
-  },
-  {
+   {
     "type": "youtube",
     "src": "https://www.youtube.com/embed/2iEy4tecAyM?autoplay=1&controls=0&modestbranding=1&showinfo=0&rel=0&autohide=1&fs=0",
     "duration": 140,
