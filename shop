@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "cartoon astronaut t-shirts",
+    "price": 700,
+    "img": "https://ecommerce-html.vercel.app/img/products/f1.jpg?text=cartoon astronaut t-shirts"
+  },
+  {
+    "id": 2,
+    "name": "cartoon astronaut t-shirts",
+    "price": 600,
+    "img": "https://ecommerce-html.vercel.app/img/products/f2.jpg?text=cartoon astronaut t-shirts"
+  },
+   {
+    "id": 3,
+    "name": "cartoon astronaut t-shirts",
+    "price": 400,
+    "img": "https://ecommerce-html.vercel.app/img/products/f3.jpg?text=cartoon astronaut t-shirts"
+  },
+  {
+    "id": 4,
+    "name": "cartoon astronaut t-shirts",
+    "price": 500,
+    "img": "https://ecommerce-html.vercel.app/img/products/f6.jpg?text=cartoon astronaut t-shirts"
+  },
+     {
+    "id": 5,
+    "name": "cartoon astronaut t-shirts",
+    "price": 400,
+    "img": "https://ecommerce-html.vercel.app/img/products/f4.jpg?text=cartoon astronaut t-shirts"
+  },
+  {
+    "id": 6,
+    "name": "cartoon astronaut t-shirts",
+    "price": 500,
+    "img": "https://ecommerce-html.vercel.app/img/products/f5.jpg?text=cartoon astronaut t-shirts"
+  },
+     {
+    "id": 7,
+    "name": "cartoon astronaut Pant",
+    "price": 400,
+    "img": "https://ecommerce-html.vercel.app/img/products/f7.jpg?text=cartoon astronaut t-shirts"
+  },
+  {
+    "id": 8,
+    "name": "cartoon astronaut t-shirts",
+    "price": 500,
+    "img": "https://ecommerce-html.vercel.app/img/products/f8.jpg?text=cartoon astronaut t-shirts"
+  },
+     {
+    "id": 9,
+    "name": "cartoon astronaut shirts",
+    "price": 400,
+    "img": "https://ecommerce-html.vercel.app/img/products/n7.jpg?text=cartoon astronaut t-shirts"
+  },
+  {
+    "id": 10,
+    "name": "cartoon astronaut shirts",
+    "price": 500,
+    "img": "https://ecommerce-html.vercel.app/img/products/n8.jpg?text=cartoon astronaut t-shirts"
+  },
+]
